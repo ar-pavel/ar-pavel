@@ -1,5 +1,5 @@
 ### Hey, it's Pavel.  👋 
-- Love sports programming and enthuasist to learn and work with new technologies. 
+`Sports Programmer and enthuasist to learn and work with new technologies.` 
 
 <!--
 **ar-pavel/ar-pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
