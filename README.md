@@ -1,10 +1,7 @@
 ### Hey, it's Pavel.  👋 
 `Software Engineer, Sports Programmer and also enthuasist to learn and work with new technologies.` 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-pavel&layout=compact" />
-
-
-https://github-readme-stats.vercel.app/api?username=ar-pavel&show_icons=true
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-pavel&layout=compact" />   <img src="https://github-readme-stats.vercel.app/api?username=ar-pavel&show_icons=true" />
 
 <!--
 **ar-pavel/ar-pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
