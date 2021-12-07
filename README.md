@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <div class="section">
     <h2>SYNOPSIS</h2>
     <div style="margin-left: 4em; color: white;">
-        `Software Engineer, Sports Programmer and enthuasist to learn and work with new technologies.` 
+        <code>Software Engineer, Sports Programmer and enthuasist to learn and work with new technologies.</code> 
     </div>
 </div>
 	
