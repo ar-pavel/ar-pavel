@@ -81,15 +81,14 @@ Here are some ideas to get you started:
 						<h3>VIRTUAL HOME</h3>
 						<p style="margin-bottom: 1em;
 				color: yellowgreen;"><a href="https://github.com/ar-pavel">github</a>(11), <a href="mailto:atikur2667@gmail.com">atikur2667@gmail.com</a>, <a href=https://www.stopstalk.com/user/profile/arpavel> stopstalk</a>(6), <a href="https://www.facebook.com/hibernatingdaemon">facebook</a></a></p>
-					</div>
-				</div>
-	
+</div>
+</div>
 <div class="section">
     <h2>SEE ALSO</h2>
-    <div style="margin-left: 4em; color: white;>
-        <p> <a href="https://ar-pavel.netlify.app/"> Check it out</a>  if a colorful GUI  gives your eyes more comfort.</p>
+    <div style="margin-left: 4em; color: white;">
+		<p> <a href="https://ar-pavel.netlify.app">Check it out</a>  if a colorful GUI  gives your eyes more comfort.</p>
 <!--<p> Update is on the way... </P> -->
-    </div>
+							  </div>
 </div>
 <span style="color:skyblue;
 				/* font-weight: bold; */
