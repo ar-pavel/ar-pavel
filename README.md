@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <div class="section">
 					<h2>ALSO KNOWN AS</h2>
 					<div style="margin-left: 4em; color: white;">
-						<p>pavel</p>
+						<p>ar-pavel</p>
 					</div>
 				</div>
 	
