@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<body onload="colour()">
+<body >
 		<div class="body-container" >
 			<div class="topbar">
 				nullpointer@pointer-house:~/home/usr
@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 					<p>[nullpointer@reckless ~]$ man pavel</p>
 				</div>
 				<div>
-					<h1>Pavel(1)</h1>
+					<h2>Pavel(1)</h2>
 				</div>
 	
-				<div class="section">
+				<div>
 					<h2>NAME</h2>
 					<div>
 						<p>Document — Atikur Rahman</p>
