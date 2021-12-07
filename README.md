@@ -1,5 +1,4 @@
 ### Hey, it's Pavel.  👋 
-`Software Engineer, Sports Programmer and enthuasist to learn and work with new technologies.` 
 
 <div display="flex" flex-direction="row" align-items= "center">
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=ar-pavel&show_icons=true" />  
@@ -36,7 +35,7 @@ Here are some ideas to get you started:
                 <p  style="float:left; color:skyblue">nullpointer@reckless ~]$ man pavel</p>
     <div> 
     <br />
-    <h2>Pavel(1)</h2>
+    
 </div>
 <div style="section">
     <h2>NAME</h2>
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
 <div class="section">
     <h2>SYNOPSIS</h2>
     <div style="margin-left: 4em; color: white;">
-        <p><span class="command"><a href="https://ar-pavel.netlify.app/"> Pavel</a></span> [<span class="argument">options</span>]</p>
+        `Software Engineer, Sports Programmer and enthuasist to learn and work with new technologies.` 
     </div>
 </div>
 	
