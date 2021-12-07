@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 				padding-bottom: 10px;">	
                 <p  style="float:left; color:skyblue">nullpointer@reckless ~]$ man pavel</p>
     <div> 
-    <br />
 	    <h1> Hey, it's Pavel.  👋 </h1>
     
 </div>
