@@ -94,7 +94,6 @@ Here are some ideas to get you started:
 				/* font-weight: bold; */
 				font-size: 1.1em;" >
 <div style="float:left; color:skyblue padding-buttom:10px;">[nullpointer@reckless ~]$  </div>
-    <div id="show" style="display: none; color:white; padding-left: 15.5em;">  _ </div>					
     </span>				
 </div>
 </div>
