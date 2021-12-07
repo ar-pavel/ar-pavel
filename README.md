@@ -31,7 +31,7 @@ Here are some ideas to get you started:
                 <p  style="float:left; color:skyblue">nullpointer@reckless ~]$ man pavel</p>
     <div> 
     <br />
-### Hey, it's Pavel.  👋 
+	    <h1> Hey, it's Pavel.  👋 </h1>
     
 </div>
 <div style="section">
