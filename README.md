@@ -1,9 +1,6 @@
 ### Hey, it's Pavel.  👋 
 
-<div display="flex" flex-direction="row" align-items= "center">
-  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=ar-pavel&show_icons=true" />  
-  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-pavel&layout=compact" />   
-</div>
+
 
 <!--
 **ar-pavel/ar-pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,6 +51,10 @@ Here are some ideas to get you started:
 <div class="section">
     <h2>DESCRIPTION</h2>
 					<div style="margin-left: 4em; color: white;">
+						<div display="flex" flex-direction="row" align-items= "center">
+  <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=ar-pavel&show_icons=true" />  
+  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-pavel&layout=compact" />   
+</div>
 						<p>Competitive Programmer.&thinsp; Develops operations and sometimes operates development.&thinsp; Mainly programs in C++, but has occasional flings with Java, Python, JavaScript, and C.</p>
 					</div>
 				</div>
