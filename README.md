@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<body >
 		<div class="body-container" >
 			
 			<div class="container">	
