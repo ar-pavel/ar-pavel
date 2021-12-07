@@ -20,3 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div class="body-container" >
+			<div class="topbar">
+				nullpointer@pointer-house:~/home/usr
+			</div>		
+			<div class="container">	
+				<div class="bang">
+					<p>[nullpointer@reckless ~]$ man pavel</p>
+				</div>
