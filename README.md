@@ -1,6 +1,6 @@
 ### Hey, it's Pavel.  👋 
 `Software Engineer, Sports Programmer and enthuasist to learn and work with new technologies.` 
-<div style={{flex-direction: "row"}}>
+<div style={{flex-direction: "row", allign-items:"center"}}>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-pavel&layout=compact" />   <img src="https://github-readme-stats.vercel.app/api?username=ar-pavel&show_icons=true" />
   
   </div>
