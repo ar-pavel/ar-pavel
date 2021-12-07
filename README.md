@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="body-container" >
+
+<body onload="colour()">
+		<div class="body-container" >
 			<div class="topbar">
 				nullpointer@pointer-house:~/home/usr
 			</div>		
@@ -28,3 +30,68 @@ Here are some ideas to get you started:
 				<div class="bang">
 					<p>[nullpointer@reckless ~]$ man pavel</p>
 				</div>
+				<div>
+					<h1>Pavel(1)</h1>
+				</div>
+	
+				<div class="section">
+					<h2>NAME</h2>
+					<div>
+						<p>Document — Atikur Rahman</p>
+					</div>
+				</div>
+	
+				<div class="section">
+					<h2>SYNOPSIS</h2>
+					<div>
+						<p><span class="command"><a href="https://ar-pavel.netlify.app/"> Pavel</a></span> [<span class="argument">options</span>]</p>
+					</div>
+				</div>
+	
+				<div class="section">
+					<h2>DESCRIPTION</h2>
+					<div>
+						<p>Competitive Programmer.&thinsp; Develops operations and sometimes operates development.&thinsp; Mainly programs in C++, but has occasional flings with Java, Python, JavaScript, and C.</p>
+					</div>
+				</div>
+	
+				<div class="section">
+					<h2>OPTIONS</h2>
+					<div>
+						<h3>--disclaimer</h3>
+						<p class="indented">Rolling release.</p>
+					</div>
+				</div>
+	
+				<div class="section">
+					<h2>ALSO KNOWN AS</h2>
+					<div>
+						<p>pavel</p>
+					</div>
+				</div>
+	
+				<div class="section">
+					<h2>ENVIRONMENT VARIABLES</h2>
+					<div>
+						<h3>HOME</h3>
+						<p class="indented">Dhaka, Bangladesh</p>
+						<h3>VIRTUAL HOME</h3>
+						<p class="linked"><a href="https://github.com/ar-pavel">github</a>(11), <a href="mailto:atikur2667@gmail.com">atikur2667@gmail.com</a>, <a href=https://www.stopstalk.com/user/profile/arpavel> stopstalk</a>(6), <a href="https://www.facebook.com/hibernatingdaemon">facebook</a></a></p>
+					</div>
+				</div>
+	
+				<div class="section">
+					<h2>SEE ALSO</h2>
+					<div>
+						<p> <a href="https://ar-pavel.netlify.app/"> Check it out</a>  if a colorful GUI  gives your eyes more comfort.</p>
+<!-- 						<p> Update is on the way... </P> -->
+					</div>
+				</div>
+				<span class="bang" >
+					<div style="float:left; color:skyblue">[nullpointer@reckless ~]$  </div>
+					<div id="show" style="display: none; color:white; padding-left: 15.5em;">  _ </div>					
+				</span>
+				
+			</div>
+			
+		</div>
