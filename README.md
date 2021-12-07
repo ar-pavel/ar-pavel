@@ -2,7 +2,7 @@
 `Software Engineer, Sports Programmer and enthuasist to learn and work with new technologies.` 
 
 <div>
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-pavel&layout=compact" />   
+  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-pavel&layout=compact" />   
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=ar-pavel&show_icons=true" />  
 </div>
 
