@@ -59,21 +59,6 @@ Here are some ideas to get you started:
 				</div>
 	
 <div class="section">
-					<h2>OPTIONS</h2>
-					<div style="margin-left: 4em; color: white;">
-						<h3>--disclaimer</h3>
-						<p style="margin-left: 2em;">Rolling release.</p>
-					</div>
-				</div>
-	
-<div class="section">
-					<h2>ALSO KNOWN AS</h2>
-					<div style="margin-left: 4em; color: white;">
-						<p>ar-pavel</p>
-					</div>
-				</div>
-	
-<div class="section">
 					<h2>ENVIRONMENT VARIABLES</h2>
 					<div style="margin-left: 4em; color: white;">
 						<h3>HOME</h3>
