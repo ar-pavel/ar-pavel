@@ -49,10 +49,8 @@ Here are some ideas to get you started:
 	
 <div class="section">
     <h2>DESCRIPTION</h2>
-					<div style="margin-left: 4em; color: white;">
 						
 						<p> Working as a software engineer, develop operations and sometimes operate development.&thinsp;  Mainly programs in TypeScripts, JavaScript, C++, but has occasional flings with Java, Python, and C.</p>
-					</div>
 				</div>
 	
 <div class="section">
