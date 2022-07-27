@@ -48,10 +48,9 @@ Here are some ideas to get you started:
 </div>
 	
 <div class="section">
-    <h2>DESCRIPTION</h2>
-						
-						<p> Working as a software engineer, develop operations and sometimes operate development.&thinsp;  Mainly programs in TypeScripts, JavaScript, C++, but has occasional flings with Java, Python, and C.</p>
-				</div>
+    <h2>DESCRIPTION</h2>			
+<p> Working as a software engineer, develop operations and sometimes operate development.&thinsp;  Mainly programs in TypeScripts, JavaScript, C++, but has occasional flings with Java, Python, and C.</p>
+</div>
 	
 <div class="section">
 					<h2>ENVIRONMENT VARIABLES</h2>
