@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 					<div style="margin-left: 4em; color: white;">
 						<div display="flex" flex-direction="row" align-items= "center">
   <img height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=ar-pavel&show_icons=true" />  
-  <img height="165" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-pavel&layout=compact" />   
 </div>
 						<p> Working as a software engineer, develop operations and sometimes operate development.&thinsp;  Mainly programs in TypeScripts, JavaScript, C++, but has occasional flings with Java, Python, and C.</p>
 					</div>
