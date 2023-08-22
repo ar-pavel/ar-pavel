@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 <div class="section">
     <h2>SYNOPSIS</h2>
     <div style="margin-left: 4em; color: white;">
-        <code>Software Engineer, Sports Programmer and enthuasist to learn and work with new technologies.</code> 
+        <code>Software Engineer, Sports Programmer, and enthusiast to learn and work with new technologies and thrive in new challenges.</code> 
     </div>
 </div>
 	
 <div class="section">
     <h2>DESCRIPTION</h2>			
-<p> Working as a software engineer, develop operations and sometimes operate development.&thinsp;  Mainly programs in TypeScripts, JavaScript, C++, but has occasional flings with Java, Python, and C.</p>
+<p> Working as a software engineer, develop operations and sometimes operate development.&thinsp;  Mainly programs in TypeScripts, JavaScript, C++, but has occasional flings with Java, Python, and C. &thinsp; Also possess some practical, hands-on experience with AWS. </p>
 </div>
 	
 <div class="section">
@@ -62,13 +62,13 @@ Here are some ideas to get you started:
 				color: yellowgreen;"><a href="https://github.com/ar-pavel">github</a>(11), <a href="mailto:atikur2667@gmail.com">atikur2667@gmail.com</a>, <a href=https://www.stopstalk.com/user/profile/arpavel> stopstalk</a>(6), <a href="https://www.facebook.com/hibernatingdaemon">facebook</a></a></p>
 </div>
 </div>
-<div class="section">
-    <h2>SEE ALSO</h2>
-    <div style="margin-left: 4em; color: white;">
-		<p> <a href="https://ar-pavel.netlify.app">Check it out</a>  if a colorful GUI  gives your eyes more comfort.</p>
+<!-- <div class="section"> -->
+<!--     <h2>SEE ALSO</h2> -->
+<!--     <div style="margin-left: 4em; color: white;"> -->
+<!-- 		<p> <a href="https://ar-pavel.netlify.app">Check it out</a>  if a colorful GUI  gives your eyes more comfort.</p> -->
 <!--<p> Update is on the way... </P> -->
 							  </div>
-</div>
+<!-- </div> -->
 <span style="color:skyblue;
 				/* font-weight: bold; */
 				font-size: 1.1em;" >
