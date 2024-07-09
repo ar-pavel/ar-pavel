@@ -33,18 +33,16 @@ Here are some ideas to get you started:
 	    <h1> Hey, it's Pavel.  👋 </h1>
     
 </div>
-<div style="section">
-    <h2>NAME</h2>
-    <div style="margin-left: 4em; color: white;">
-		<p>Document — Atikur Rahman</p>
-	</div>
-</div>
 	
 <div class="section">
-    <h2>SYNOPSIS</h2>
-    <div style="margin-left: 4em; color: white;">
-        <code>Software Engineer, Sports Programmer, and enthusiast to learn and work with new technologies and thrive in new challenges.</code> 
-    </div>
+	<h2>SYNOPSIS</h2>
+	<h4>NAME</h4>
+	<div style="margin-left: 4em; color: white;">
+		<p>Document — Atikur Rahman</p>
+	</div>
+	<div style="margin-left: 4em; color: white;">
+        	<code>Software Engineer, Sports Programmer, and enthusiast to learn and work with new technologies and thrive in new challenges.</code> 
+	</div>
 </div>
 	
 <div class="section">
