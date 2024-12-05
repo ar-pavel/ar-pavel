@@ -1,76 +1,33 @@
-
-
-
-<!--
-**ar-pavel/ar-pavel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div style="font-family: Source Code Pro, monospace, monospace;
-				font-size: 0.9em;
-				background-color: silver;
-				position: relative;
-                position: relative;
-                " >
-    <div style="max-width: 55em;
-				margin: auto;
-				background-color: #22232A;
-				padding-right: 10px;
-				padding-top: 10px;
-				padding-bottom: 10px;">	
-                <p  style="float:left; color:skyblue">nullpointer@reckless ~]$ man pavel</p>
-    <div> 
-	    <h1> Hey, it's Pavel.  👋 </h1>
+<div style="font-family: Source Code Pro, monospace; background-color: #22232A; color: skyblue; padding: 20px; max-width: 800px; margin: auto;">
+    <p style="float: left;">nullpointer@reckless ~]$ man pavel</p>
+    <h1 style="color: white;">Hey, I'm Pavel 👋</h1>
     
-</div>
-	
-<div class="section">
-	<h2>SYNOPSIS</h2>
-	<h4>NAME</h4>
-	<div style="margin-left: 4em; color: white;">
-		<p>Document — Atikur Rahman</p>
-	</div>
-	<div style="margin-left: 4em; color: white;">
-        	<code>Software Engineer, Sports Programmer, and enthusiast to learn and work with new technologies and thrive in new challenges.</code> 
-	</div>
-</div>
-	
-<div class="section">
-    <h2>DESCRIPTION</h2>			
-<p> Working as a software engineer, develop operations and sometimes operate development.&thinsp;  Mainly programs in TypeScripts, JavaScript, C++, but has occasional flings with Java, Python, and C. &thinsp; Also possess some practical, hands-on experience with AWS. </p>
-</div>
-	
-<div class="section">
-					<h2>ENVIRONMENT VARIABLES</h2>
-					<div style="margin-left: 4em; color: white;">
-						<h3>HOME</h3>
-						<p style="margin-left: 2em;">Dhaka, Bangladesh</p>
-						<h3>VIRTUAL HOME</h3>
-						<p style="margin-bottom: 1em;
-				color: yellowgreen;"><a href="https://github.com/ar-pavel">github</a>(11), <a href="mailto:atikur2667@gmail.com">atikur2667@gmail.com</a>, <a href=https://www.stopstalk.com/user/profile/arpavel> stopstalk</a>(6), <a href="https://www.facebook.com/hibernatingdaemon">facebook</a></a></p>
-</div>
-</div>
-<!-- <div class="section"> -->
-<!--     <h2>SEE ALSO</h2> -->
-<!--     <div style="margin-left: 4em; color: white;"> -->
-<!-- 		<p> <a href="https://ar-pavel.netlify.app">Check it out</a>  if a colorful GUI  gives your eyes more comfort.</p> -->
-<!--<p> Update is on the way... </P> -->
-							  </div>
-<!-- </div> -->
-<span style="color:skyblue;
-				/* font-weight: bold; */
-				font-size: 1.1em;" >
-<div style="float:left; color:skyblue padding-buttom:10px;">[nullpointer@reckless ~]$  </div>
-    </span>				
-</div>
+    <section>
+        <p style="margin-left: 20px; color: white;">
+            <b>Atikur Rahman</b> — Software Engineer, sports programmer, and tech enthusiast eager to learn and tackle new challenges.
+        </p>
+    </section>
+
+    <section>
+        <h2>SKILLS</h2>
+        <p style="margin-left: 20px; color: white;">
+            Working as a Software Engineer, I specialize in developing operations and occasionally delving into operational development. Proficient in TypeScript, JavaScript, and C++. Occasionally works with Java, Python, and C. I also have hands-on experience with AWS.
+        </p>
+    </section>
+
+    <section>
+        <h2>CONNECT</h2>
+        <p style="margin-left: 20px; color: white;">
+            <b>Home:</b> Dhaka, Bangladesh <br>
+            <b>Online:</b> 
+            <a href="https://github.com/ar-pavel" style="color: yellowgreen;">GitHub</a>, 
+            <a href="mailto:atikur2667@gmail.com" style="color: yellowgreen;">Email</a>, 
+            <a href="https://www.stopstalk.com/user/profile/arpavel" style="color: yellowgreen;">Stopstalk</a>, 
+            <a href="https://www.facebook.com/hibernatingdaemon" style="color: yellowgreen;">Facebook</a>
+        </p>
+    </section>
+    
+    <footer style="margin-top: 20px; color: skyblue;">
+        nullpointer@reckless ~]$
+    </footer>
 </div>
